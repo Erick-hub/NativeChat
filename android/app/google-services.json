@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481695809251",
+    "project_id": "nativechat-99636",
+    "storage_bucket": "nativechat-99636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481695809251:android:95cdecd0c9b15d080b8fd6",
+        "android_client_info": {
+          "package_name": "com.nativechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481695809251-579naibqd46sddq35g2jubo9tlmndt7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativechat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "481695809251-r388f7o3k4v8qk2o6k15k2sllc6c8d9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativechat",
+            "certificate_hash": "3e479d6f416383c5449923d9b41e6412e1ffc5cd"
+          }
+        },
+        {
+          "client_id": "481695809251-6i0s6llermji9sfkgprug23l1uoltrjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxqr9WVGr8pxQ6siREP8ftiMTGB1wfiOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481695809251-6i0s6llermji9sfkgprug23l1uoltrjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
